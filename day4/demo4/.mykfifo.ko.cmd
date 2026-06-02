@@ -1,0 +1,1 @@
+savedcmd_/home/sakshi/CDAC_classwork/LDD/day4/demo4/mykfifo.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sakshi/CDAC_classwork/LDD/day4/demo4/mykfifo.ko /home/sakshi/CDAC_classwork/LDD/day4/demo4/mykfifo.o /home/sakshi/CDAC_classwork/LDD/day4/demo4/mykfifo.mod.o

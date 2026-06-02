@@ -1,0 +1,1 @@
+savedcmd_/home/sakshi/CDAC_classwork/LDD/day4/demo02/modparam2.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sakshi/CDAC_classwork/LDD/day4/demo02/modparam2.ko /home/sakshi/CDAC_classwork/LDD/day4/demo02/modparam2.o /home/sakshi/CDAC_classwork/LDD/day4/demo02/modparam2.mod.o

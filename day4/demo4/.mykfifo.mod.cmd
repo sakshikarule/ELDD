@@ -1,0 +1,1 @@
+savedcmd_/home/sakshi/CDAC_classwork/LDD/day4/demo4/mykfifo.mod := printf '%s\n'   mykfifo.o | awk '!x[$$0]++ { print("/home/sakshi/CDAC_classwork/LDD/day4/demo4/"$$0) }' > /home/sakshi/CDAC_classwork/LDD/day4/demo4/mykfifo.mod

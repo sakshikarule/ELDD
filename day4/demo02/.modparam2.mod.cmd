@@ -1,0 +1,1 @@
+savedcmd_/home/sakshi/CDAC_classwork/LDD/day4/demo02/modparam2.mod := printf '%s\n'   modparam2.o | awk '!x[$$0]++ { print("/home/sakshi/CDAC_classwork/LDD/day4/demo02/"$$0) }' > /home/sakshi/CDAC_classwork/LDD/day4/demo02/modparam2.mod

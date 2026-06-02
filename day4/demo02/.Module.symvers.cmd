@@ -1,0 +1,1 @@
+savedcmd_/home/sakshi/CDAC_classwork/LDD/day4/demo02/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/sakshi/CDAC_classwork/LDD/day4/demo02/Module.symvers -T /home/sakshi/CDAC_classwork/LDD/day4/demo02/modules.order -i Module.symvers -e 
